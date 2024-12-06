@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon MATLAB error related to type mismatch.  The `bug.m` file contains a function that expects a numeric input but is called with a string argument, leading to an error. The `bugSolution.m` file provides a solution using input validation.
